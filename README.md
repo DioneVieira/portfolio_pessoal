@@ -1,4 +1,4 @@
-# portifolio_pessoal
+# portfolio_pessoal
 
 Atividade Prática da UNINTER.
 FERRAMENTAS DE DESENVOLVIMENTO WEB
